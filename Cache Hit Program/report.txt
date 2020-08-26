@@ -1,0 +1,9 @@
+Ravishka Rathnasuriya
+
+Number of hits for 64 bytes block size :- 930353
+Number of hits for 128 bytes block size:- 927048
+
+The program has two versions but everything is similar except two lines.
+ Both the versions give the same number of hits when computed.
+
+64bytes block size gives more hits than 128 bytes. Therefore, 64 bytes is better 
